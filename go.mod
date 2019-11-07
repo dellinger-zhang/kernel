@@ -1,3 +1,3 @@
-module git.tutorabc.com/tmc3/corewars/kernel.git
+module github.com/dellinger-zhang/kernel
 
 go 1.12
